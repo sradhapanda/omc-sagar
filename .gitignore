@@ -1,0 +1,11 @@
+/logging/
+
+*.properties
+.classpath
+.gitignore.txt
+.project
+.settings/
+bin/
+target/
+/.metadata/
+/.metadata/
